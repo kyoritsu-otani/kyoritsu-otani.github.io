@@ -2,16 +2,20 @@
 
 ## テスト
 
+プログラムを入れたい。
 ```{r}
 head(iris)
 ```
 
+数式を入れたい。
 $$
 y_{i}=ax_{i}+b
 $$
 
+本文もいろいろ書きたい。
 $$ e^{i\theta} = \cos\theta + i\sin\theta $$
 
+たくさんたくさん。
 \[
 e^{i\theta} = \cos\theta + i\sin\theta
 \]
