@@ -6,3 +6,12 @@
 head(iris)
 ```
 
+$$
+y_{i}=ax_{i}+b
+$$
+
+$$ e^{i\theta} = \cos\theta + i\sin\theta $$
+
+\[
+e^{i\theta} = \cos\theta + i\sin\theta
+\]
